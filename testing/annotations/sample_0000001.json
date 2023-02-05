@@ -1,0 +1,17 @@
+[
+    {
+        "measure": 1,
+        "tempo": 100.0,
+        "beats": 4,
+        "beat-type": 4,
+        "changes": [
+            {
+                "chord": "C",
+                "chord-type": "major",
+                "chord-alteration": null,
+                "duration": 4,
+                "subdivision": 4
+            }
+        ]
+    }
+]
