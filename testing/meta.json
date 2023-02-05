@@ -2,6 +2,7 @@
     {
         "name": "sample_0000001",
         "sample": "samples/sample_0000001.wav",
+        "annotation": "annotations/sample_0000001.json",
         "annotation_type": "json",
         "tempo": 60,
         "repeats": 1
